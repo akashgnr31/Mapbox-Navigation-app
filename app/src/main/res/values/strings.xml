@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">i don\'t know the name</string>
-    <string name="access_token" translatable="false">sk.eyJ1IjoiYWthc2hnbnIiLCJhIjoiY2ppNGJoMGZtMDZ1bTNqbWZyZTQ5aGFtbSJ9.CLwYE8H4DWeyGM8OoOkXJA</string>
+    <string name="access_token" translatable="false">Your ACCESS token</string>
     <string name="start_navigating">Start Navigating</string>
 </resources>
