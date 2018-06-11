@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         mapbox:mapbox_cameraTargetLat="26.512339"
         mapbox:mapbox_cameraTargetLng="80.232900"
-        mapbox:mapbox_cameraZoom="12"
+        mapbox:mapbox_cameraZoom="100"
         mapbox:mapbox_styleUrl="mapbox://styles/mapbox/streets-v10"
         tools:layout_editor_absoluteX="6dp"
         tools:layout_editor_absoluteY="459dp"
